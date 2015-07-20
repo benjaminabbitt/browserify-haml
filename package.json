@@ -1,0 +1,20 @@
+{
+  "name": "browserify-haml",
+  "version": "0.0.1-SNAPSHOT",
+  "description": "Browserify plugin for haml",
+  "main": "index.js",
+  "repository": "git://github.com/benjaminabbitt/browserify-haml.git",
+  "author": "Benjamin Abbitt",
+  "license": "BSD",
+  "dependencies": {
+    "win-spawn": "~2.0.0",
+    "through2": "^0.6.3"
+  },
+  "keywords": [
+    "browserify-plugin",
+    "haml"
+  ],
+  "devDependencies": {
+    "browserify": "^8.1.3",
+  }
+}
